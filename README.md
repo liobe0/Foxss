@@ -14,7 +14,7 @@ Foxss 是一个高效的大规模 XSS 扫描工具，旨在帮助安全研究人
 你可以通过以下命令来安装 Foxss：
 
 ```bash
-git clone https://github.com/yourusername/foxss.git
+git clone https://github.com/liobe0/Foxss.git
 cd foxss
-foxss -h
+Telek -h
 ```
