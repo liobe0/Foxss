@@ -18,3 +18,13 @@ git clone https://github.com/liobe0/Foxss.git
 cd foxss
 Telek -h
 ```
+
+# 运行
+```
+.\Telek.exe -u "https://bbs.wenxuecity.com/search/?q=fef&x=29&y=27&act=bbs"
+[+]Loading completed!
+[+]存在漏洞的参数:q
+[+]未存在漏洞的参数:x
+[+]未存在漏洞的参数:y
+[+]未存在漏洞的参数:act
+```
