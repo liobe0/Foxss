@@ -25,8 +25,5 @@ Telek -h
 ```
 .\Telek.exe -u "http://ctf.aabyss.cn/xss-labs/level1.php?name=test"
 [+]Loading completed!
-[+]存在漏洞的参数:q
-[+]未存在漏洞的参数:x
-[+]未存在漏洞的参数:y
-[+]未存在漏洞的参数:act
+[+]存在漏洞的参数:name
 ```
