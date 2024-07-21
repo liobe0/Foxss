@@ -27,3 +27,7 @@ Telek -h
 [+]Loading completed!
 [+]存在漏洞的参数:name
 ```
+# 更新
+```
+v6:针对单个url进行多线程检测，提高检测速度
+```
