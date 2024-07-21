@@ -23,7 +23,7 @@ Telek -h
 
 # 运行
 ```
-.\Telek.exe -u "https://bbs.wenxuecity.com/search/?q=fef&x=29&y=27&act=bbs"
+.\Telek.exe -u "http://ctf.aabyss.cn/xss-labs/level1.php?name=test"
 [+]Loading completed!
 [+]存在漏洞的参数:q
 [+]未存在漏洞的参数:x
